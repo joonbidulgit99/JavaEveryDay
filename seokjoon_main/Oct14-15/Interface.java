@@ -79,6 +79,7 @@ public class Interface {
         feeder1.Feeding(lion1);
         feeder1.Feeding(leopard1);
 
+        System.out.println(tiger1.GetFood());
 
         BarkingMaker maker1 = new BarkingMaker();
         maker1.Barking(tiger1);

@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9f347a65-0a98-4747-b5ee-5cea0761b168" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../Oct14/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Oct14/.idea/Oct14.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Oct14/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Oct14/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Oct14/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Oct14/Interface.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Oct14/Polymorphism.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Oct14/out/production/Oct14/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Oct14/out/production/Oct14/.idea/Oct14.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Oct14/out/production/Oct14/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Oct14/out/production/Oct14/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Oct14/out/production/Oct14/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Oct14/out/production/Oct14/Animals.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Oct14/out/production/Oct14/Barkable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Oct14/out/production/Oct14/BarkingMaker.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Oct14/out/production/Oct14/Feeder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Oct14/out/production/Oct14/Interface.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Oct14/out/production/Oct14/Leopard.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Oct14/out/production/Oct14/Lion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Oct14/out/production/Oct14/Polymorphism.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Oct14/out/production/Oct14/Predator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Oct14/out/production/Oct14/Tiger.class" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2GDjtMRY1eNJo5GMN5bt9l8UvWH" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/sjchung/Desktop/Java/seokjoon_main/Oct16&quot;
+  }
+}</component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="Oct16" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="Oct16" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9f347a65-0a98-4747-b5ee-5cea0761b168" name="Changes" comment="" />
+      <created>1665930262759</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1665930262759</updated>
+      <workItem from="1665930264525" duration="238000" />
+      <workItem from="1665930511358" duration="29000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
